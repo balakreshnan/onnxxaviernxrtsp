@@ -10,3 +10,9 @@
   ```
   pip install onnxruntime_gpu-1.12.1-cp38-cp38-linux_aarch64.whl
   ```
+
+- Code sample
+
+  ```
+  https://github.com/onnx/models/tree/main/validated/vision/object_detection_segmentation/tiny-yolov3
+  ```
